@@ -1,0 +1,6 @@
+/* style-homepage.css — v2.0 ChurnIQ Premium */
+/* Most styles are now handled inline via Tailwind + <style> in homepage.html */
+/* This file is retained for Flask static serving compatibility */
+
+/* Reset any legacy styles that could conflict */
+body { margin: 0; padding: 0; }
